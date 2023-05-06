@@ -52,11 +52,13 @@ SortIncludes: false
 
 # zsh
 .zshrc просто скопировать в ~/
-Установка zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
-Установка zsh-syntax-hignlight: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh
 
 ### oh-my-zsh
 https://github.com/ohmyzsh/ohmyzsh
+
+\
+Установка zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh \
+Установка zsh-syntax-hignlight: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh
 
 ### powerline10k
 https://github.com/romkatv/powerlevel10k#getting-started

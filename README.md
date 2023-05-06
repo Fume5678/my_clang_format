@@ -55,3 +55,8 @@ SortIncludes: false
 
 ### oh-my-zsh
 https://github.com/ohmyzsh/ohmyzsh
+
+### powerline10k
+https://github.com/romkatv/powerlevel10k#getting-started
+
+

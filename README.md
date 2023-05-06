@@ -35,17 +35,17 @@ SortIncludes: false
 ```
 
 # tmux
-копировать .tmux.conf в ~/
-в консоли
+Копировать .tmux.conf в ~/
 ```
+  # В консоли
   git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
   tmux source ~/.tmux.conf
   
-  # Next enter in tmux
+  # Запуск tmux
   tmux
   
-  #Inside tmux
-  <prefix + I> - for install plugins
+  # Внутри tmux
+  <prefix + I> - для установки плагинов
   
 ```
 
